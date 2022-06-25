@@ -6,4 +6,8 @@ Bikroy.com was launched in 2012 and has sections dedicated to private and busine
 
 Sign Up Form
 
-I built and executed 39 test cases both for website and mobile app under the Sign Up scenarios. Where I found 5 bugs.Click on:https://www.mobileaction.co/app/android/us/bikroy-sell-rent-buy-and-find-jobs/com.bikroy  to visit the site.and Click On https://play.google.com/store/apps/details?id=com.bikroy&hl=en&gl=US to download the mobile app.
+I built and executed 39 test cases both for website and mobile app under the Sign Up scenarios. Where I found 5 bugs.
+
+Click on:https://www.mobileaction.co/app/android/us/bikroy-sell-rent-buy-and-find-jobs/com.bikroy  to visit the site.
+
+And Click On https://play.google.com/store/apps/details?id=com.bikroy&hl=en&gl=US to download the mobile app.
